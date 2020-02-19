@@ -91,7 +91,7 @@ Date:   Sun Jan 27 13:20:15 2019 +0700
 
 ### Modified Files
 
-_Git does not just track the creation and deletion of files. It also reports the changes that happen to the files that are already present in its history._
+_Git does not just track the creation and deletion of files. It also reports the changes that happen to the files that are already present in its history.
 
 For example the content above is italic by mistake. You can easily fix them by removing `*....*` that is currently surround the content.
 
